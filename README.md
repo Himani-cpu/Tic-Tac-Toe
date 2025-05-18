@@ -53,4 +53,12 @@ Maintain a list of all moves for each round.
 Show a summary of wins per player name (useful for Multiplayer or across different sessions).
 
 
+## 🧰 Tech Stack
+Frontend/UI: Streamlit
+
+Backend Logic: Python
+
+AI Logic: Minimax Algorithm (for unbeatable mode)
+
+
 
