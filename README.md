@@ -63,12 +63,44 @@ AI Logic: Minimax Algorithm (for unbeatable mode)
 
 ## 📦 Setup Instructions
 
-Clone the Repository
+**Clone the Repository**
 
 bash
-
-git clone https://github.com/yourusername/tic-tac-toe-streamlit.git
+git clone https://github.com/Himani-cpu/Tic-Tac-Toe.git
 cd tic-tac-toe-streamlit
+
+**Install Dependencies**
+
+pip install -r requirements.txt
+
+**Run the App**
+
+python -m streamlit run game.py
+
+
+## 📁 Project Structure
+
+game.py
+requirements.txt
+README.md
+
+
+## 📖 How It Works
+
+When in Single Player Mode, the AI calculates the best possible move based on difficulty.
+
+In Multiplayer, each player takes turns clicking the board.
+
+All UI updates are controlled with st.session_state to preserve state between reruns.
+
+
+## 🙌 Acknowledgments
+
+Inspired by the classic paper-pencil game 📝
+
+Minimax AI adapted from various open-source references
+
+
 
 
 
