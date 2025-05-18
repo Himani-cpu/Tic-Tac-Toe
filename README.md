@@ -61,4 +61,16 @@ Backend Logic: Python
 AI Logic: Minimax Algorithm (for unbeatable mode)
 
 
+## 📦 Setup Instructions
+
+Clone the Repository
+
+bash
+
+git clone https://github.com/yourusername/tic-tac-toe-streamlit.git
+cd tic-tac-toe-streamlit
+
+
+
+
 
