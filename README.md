@@ -81,7 +81,9 @@ python -m streamlit run game.py
 ## 📁 Project Structure
 
 game.py
+
 requirements.txt
+
 README.md
 
 
